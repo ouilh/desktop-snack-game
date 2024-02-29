@@ -1,0 +1,10 @@
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\bin\Debug\mini_jeu.exe.config
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\bin\Debug\mini_jeu.exe
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\bin\Debug\mini_jeu.pdb
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.csprojAssemblyReference.cache
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.Form1.resources
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.Properties.Resources.resources
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.csproj.GenerateResource.cache
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.csproj.CoreCompileInputs.cache
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.exe
+C:\Users\yassi\source\repos\mini_jeu\mini_jeu\obj\Debug\mini_jeu.pdb
